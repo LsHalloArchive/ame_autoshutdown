@@ -1,5 +1,5 @@
-# Aodbe Media Encoder Autoshutdown
-Automatically shutdown after Adobe Media Encoder encoding/rendering
+# Adobe Media Encoder Autoshutdown
+Automatically shutdown after Adobe Media Encoder encoding/rendering.
 
 ## How to use
 ### Windows
