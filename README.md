@@ -25,5 +25,5 @@ Automatically shutdown Adobe Media Encoder after Encoding/Rendering
 ## Download
 https://github.com/LsHallo/ame_autoshutdown/releases
 
-Working on **Windows***(Confirmed)* and **Linux***(Ubuntu confirmed)*
+Working on **Windows** *(Confirmed)* and **Linux** *(Ubuntu confirmed)*
 It should also work for **MacOS X**
