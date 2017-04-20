@@ -1,5 +1,5 @@
-# ame_autoshutdown
-Automatically shutdown Adobe Media Encoder after Encoding/Rendering
+# Aodbe Media Encoder Autoshutdown
+Automatically shutdown after Adobe Media Encoder encoding/rendering
 
 ## How to use
 ### Windows
