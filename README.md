@@ -6,21 +6,27 @@ Automatically shutdown after Adobe Media Encoder encoding/rendering.
 1. Download the program
 2. Setup your render list
 3. Add a project at the end (an image) that creates a file at a specific location
+![Rendering List](https://cdn.instructables.com/FCC/20B1/J1QP0GG9/FCC20B1J1QP0GG9.LARGE.jpg)
 4. Run the program
 5. Enter the location and the name of the file into the program and enable it (e.g.: C:\Desktop\ and render.mp4)
-6. Start rendering
-7. Done - The program will shutdown your computer
+![Program Screenshot](https://cdn.instructables.com/FK5/48SO/J1QP0GFR/FK548SOJ1QP0GFR.LARGE.jpg)
+6. Tick the enabled checkbox
+7. Start rendering
+8. Done - The program will shutdown your computer
 
 ### Linux/Ubuntu/MacOS X
 #### Since Version v0.2:
 1. Download the program
 2. Setup your render list
 3. Add a project at the end (an image) that creates a file at a specific location
+![Rendering List](https://cdn.instructables.com/FCC/20B1/J1QP0GG9/FCC20B1J1QP0GG9.LARGE.jpg)
 4. Open a terminal OR run the jar file like you always do and skip step 5
 5. Type: java -jar location/to/AME.jar
 6. Enter the location and the name of the file into the program and enable it (e.g.: /home/desktop and render.mp4)
-7. Start rendering
-8. Done - The program will shutdown your computer
+![Program Screenshot](https://cdn.instructables.com/FK5/48SO/J1QP0GFR/FK548SOJ1QP0GFR.LARGE.jpg)
+7. Tick the enabled checkbox
+8. Start rendering
+9. Done - The program will shutdown your computer
 
 *Additional Info*  
 This program uses `shutdown -h 1` or `sudo -S shutdown -h 1` (if the first fails) to shutdown on unix based systems. Make sure your system uses the same commands and supports **sudo**.  
