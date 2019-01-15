@@ -20,9 +20,9 @@ Automatically shutdown after Adobe Media Encoder encoding/rendering. This will a
 2. Setup your render list
 3. Add a project at the end (an image) that creates a file at a specific location
 ![Rendering List](https://cdn.instructables.com/FCC/20B1/J1QP0GG9/FCC20B1J1QP0GG9.LARGE.jpg)
-4. Open a terminal OR run the jar file like you always do and skip step 5
+4. Run the jar file like you always do and skip step 5 *OR* Open a terminal and continue with step 5
 5. Type: java -jar location/to/AME.jar
-6. Enter the location and the name of the file into the program and enable it (e.g.: /home/desktop and render.mp4)
+6. Enter the location and the name of the final file into the program and enable it (e.g.: /home/desktop and render.mp4)
 ![Program Screenshot](https://cdn.instructables.com/FK5/48SO/J1QP0GFR/FK548SOJ1QP0GFR.LARGE.jpg)
 7. Tick the enabled checkbox
 8. Start rendering
