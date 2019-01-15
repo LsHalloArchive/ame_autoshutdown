@@ -51,7 +51,7 @@ This program uses `shutdown -h 1` or `sudo -S shutdown -h 1` (if the first fails
 </details>
 
 ## Download
-[![HitCount](http://hits.dwyl.io/LsHallo/ame_autoshutdown.svg)](http://hits.dwyl.io/LsHallo/ame_autoshutdown)  ![](https://img.shields.io/github/downloads/lshallo/ame_autoshutdown/total.svg?style=flat-square)
+[![HitCount](http://hits.dwyl.io/LsHallo/ame_autoshutdown.svg)](https://github.com/LsHallo/ame_autoshutdown)  [![](https://img.shields.io/github/downloads/lshallo/ame_autoshutdown/total.svg?style=flat-square)](https://github.com/LsHallo/ame_autoshutdown/releases)
 
 https://github.com/LsHallo/ame_autoshutdown/releases
 
