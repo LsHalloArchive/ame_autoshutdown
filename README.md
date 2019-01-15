@@ -1,4 +1,4 @@
-# Adobe Media Encoder Autoshutdown [![](https://img.shields.io/github/issues/badges/shields.svg?style=flat-square)](https://github.com/LsHallo/ame_autoshutdown/issues) [![](https://img.shields.io/github/release-date/SubtitleEdit/subtitleedit.svg?style=flat-square)](https://github.com/LsHallo/ame_autoshutdown)
+# Adobe Media Encoder Autoshutdown [![](https://img.shields.io/github/issues/badges/shields.svg?style=flat-square)](https://github.com/LsHallo/ame_autoshutdown/issues) [![](https://img.shields.io/github/release-date/SubtitleEdit/subtitleedit.svg?style=flat-square)](https://github.com/LsHallo/ame_autoshutdown/releases)
 Automatically shutdown after Adobe Media Encoder encoding/rendering. This will also work for almost any programs where you can create a file once it is finished. Or something like Sony Vegas where it only creates the final file once the rendering is finished. This programm will also work with Blender, Sony Vegas, Adobe After Affects, Adobe Premiere Pro, etc...
 
 ## How to use
