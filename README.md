@@ -1,7 +1,7 @@
 # Adobe Media Encoder Autoshutdown
 Automatically shutdown after Adobe Media Encoder encoding/rendering. This will also work for almost any programs where you can create a file once it is finished. Or something like Sony Vegas where it only creates the final file once the rendering is finished. This programm will also work with Blender, Sony Vegas, Adobe After Affects, Adobe Premiere Pro, etc...
 
-![](https://img.shields.io/github/license/lshallo/ame_autoshutdown.svg?style=flat-square) [![](https://img.shields.io/github/release-date/SubtitleEdit/subtitleedit.svg?style=flat-square)](https://github.com/LsHallo/ame_autoshutdown/releases)
+![](https://img.shields.io/github/license/lshallo/ame_autoshutdown.svg?style=flat-square) [![](https://img.shields.io/github/release-date/LsHallo/ame_autoshutdown.svg?style=flat-square)](https://github.com/LsHallo/ame_autoshutdown/releases) [![](https://img.shields.io/github/issues-raw/lshallo/ame_autoshutdown.svg?style=flat-square)](https://github.com/LsHallo/ame_autoshutdown/issues)
 
 ## How to use
 ### Windows
@@ -50,7 +50,7 @@ This program uses `shutdown -h 1` or `sudo -S shutdown -h 1` (if the first fails
   </ol>
 </details>
 
-## Download
+## Download [![](https://img.shields.io/github/release/lshallo/ame_autoshutdown.svg?style=flat-square)](https://github.com/LsHallo/ame_autoshutdown/releases/latest)
 [![HitCount](http://hits.dwyl.io/LsHallo/ame_autoshutdown.svg)](https://github.com/LsHallo/ame_autoshutdown)  [![](https://img.shields.io/github/downloads/lshallo/ame_autoshutdown/total.svg?style=flat-square)](https://github.com/LsHallo/ame_autoshutdown/releases)
 
 https://github.com/LsHallo/ame_autoshutdown/releases
